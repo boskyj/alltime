@@ -1,0 +1,13 @@
+package com.bos.alltime;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class AlltimeApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
